@@ -5,11 +5,10 @@ This repo contains my work for the **SEED Labs – Morris Worm Attack** assignme
 2) self-duplicate + propagate across an emulated “mini Internet” running in Docker.
 
 ## What’s in this repo
-
-- `REPORT.md` — polished lab report (task-by-task, with observations and takeaways)
+- `MorrisWorm_Lab_Report.pdf`  — polished lab report (task-by-task, with observations and takeaways)
 - `worm.py` — my modified worm implementation (based on the provided skeleton)
-- `Morris Worm Attack Lab.pdf` — official lab instructions (SEED Labs)
-- `Original_Lab_Report.docx` — the original writeup (for reference)
+- `MorrisWorm_Attack_Lab.pdf` — official lab instructions (SEED Labs)
+
 
 ## Environment
 
